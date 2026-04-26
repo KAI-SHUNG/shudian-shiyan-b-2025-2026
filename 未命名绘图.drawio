@@ -137,9 +137,6 @@
         <mxCell id="c2Ew40Mm9-tZxKYdL6Gv-2" parent="1" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.logic_gate;operation=and;negating=1;negSize=0.15;" value="" vertex="1">
           <mxGeometry height="30" width="64" x="448" y="168" as="geometry" />
         </mxCell>
-        <mxCell id="c2Ew40Mm9-tZxKYdL6Gv-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1" vertex="1">
-          <mxGeometry height="30" width="60" x="248" y="280" as="geometry" />
-        </mxCell>
         <mxCell id="c2Ew40Mm9-tZxKYdL6Gv-8" edge="1" parent="1" source="LB7VPcnsJI316lUqnGeF-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;" target="c2Ew40Mm9-tZxKYdL6Gv-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="288" y="240" as="targetPoint" />
