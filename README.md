@@ -105,3 +105,6 @@ git clone https://github.com/KAI-SHUNG/shudian-shiyan-b-2025-2026.git
 4. 不要忘了慕课
 5. ❤⭐ 点点 star ⭐❤
 
+## 完善
+
+欢迎提 issue 或 pr，欢迎 fork 并自行改进迭代。
